@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>我的第一篇博客</title>
+    <link href="/2025/03/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2025/03/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Hexo-我的第一篇博客诞生"><a href="#Hexo-我的第一篇博客诞生" class="headerlink" title="Hexo-我的第一篇博客诞生"></a>Hexo-我的第一篇博客诞生</h1><p>如你所见，这是我的第一篇博客。</p><p>我成功创建仓库、完成ssh配置、利用Hexo搭建起我的个人博客网站。</p><p>目前网站部署在github：<a href="https://essential-yy.github.io/">https://Essential-yy.github.io</a></p><p>使用主题为<strong>fliud</strong></p><hr><p>接下来，我将等待Vercel通过我的注册申请，然后将我的个人博客部署在国内域名，这样就可以不用挂梯子了。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/03/10/hello-world/"/>
     <url>/2025/03/10/hello-world/</url>
